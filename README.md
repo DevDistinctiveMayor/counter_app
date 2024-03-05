@@ -1,4 +1,4 @@
-# counting_app
+# counter_app
 This project is basically for counting which can be used in keeping records of entry with the save button.
 
 Functionality:
